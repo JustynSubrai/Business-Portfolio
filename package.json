@@ -1,0 +1,22 @@
+{
+  "name": "business-portfolio",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Javascript-yellow.svg)\r ![](https://img.shields.io/badge/Express.js-orange.svg)\r ![](https://img.shields.io/badge/Node.js-green.svg)\r ![](https://img.shields.io/badge/React-blue.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustynSubrai/Business-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustynSubrai/Business-Portfolio/issues"
+  },
+  "homepage": "https://github.com/JustynSubrai/Business-Portfolio#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}

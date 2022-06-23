@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/Javascript-yellow.svg)
 ![](https://img.shields.io/badge/Express.js-orange.svg)
 ![](https://img.shields.io/badge/Node.js-green.svg)
-![](https://img.shields.io/badge/Mongoose-red.svg)
-![](https://img.shields.io/badge/MongoDB-lime.svg)
 ![](https://img.shields.io/badge/React-blue.svg)
 
 
@@ -25,8 +23,6 @@
   * Express
   * Node
   * React
-  * MongoDB
-  * Mongoose
 
 # Photos
 <p>Coming Soon</p>

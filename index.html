@@ -255,21 +255,6 @@
 	</div>
 
 	<!-- Scripts -->
-	<script>
-		const form = useRef();
-
-		const sendEmail = (e) => {
-			e.preventDefault();
-
-			emailjs.sendForm('service_0tnb9by', 'template_zylyoiq', form.current, 's_lfwLJtljsMGyFs8')
-				.then((result) => {
-					console.log(result.text);
-				}, (error) => {
-					console.log(error.text);
-				});
-			e.target.reset()
-		};
-	</script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>

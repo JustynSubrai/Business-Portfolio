@@ -9,10 +9,10 @@
 
 # Table of Contents
 * [Description](#description)
-* [Deployed Page](#deployed-page)
-* [Photos](#photos)
-* [Contact](#contact)
 * [Packages Used](#packages-used)
+* [Photos](#photos)
+* [Deployed Page](#deployed-page)
+* [Contact](#contact)
 
 # Description
 
